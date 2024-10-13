@@ -1,0 +1,3 @@
+[submodule "semantic-kernel.git"]
+	path = semantic-kernel.git
+	url = git@github.com:Bryan-Roe/semantic-kernel.git
